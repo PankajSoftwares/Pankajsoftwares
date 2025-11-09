@@ -38,7 +38,7 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PankajSoftwares&show_icons=true&theme=dark" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PankajSoftwares&show_icons=true&theme=Gradient" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSoftwares&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
