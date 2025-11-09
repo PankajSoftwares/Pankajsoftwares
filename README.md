@@ -39,11 +39,11 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PankajSoftwares&show_icons=true&theme=ambient_gradient" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSoftwares&theme=ambient_gradient" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSoftwares&theme=ambient_gradient" alt="GitHub Streak" width="51%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSoftwares&layout=compact&theme=ambient_gradient" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSoftwares&layout=compact&theme=ambient_gradient" width="100%" />
 </p>
 
 ---
