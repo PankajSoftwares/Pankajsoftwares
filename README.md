@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSoftwares&layout=compact&theme=ambient_gradient" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSoftwares&layout=compact&theme=ambient_gradient" width="80%" />
 </p>
 
 ---
